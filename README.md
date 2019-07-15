@@ -8,4 +8,4 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 - Practice Random Problems
 
 ### Day 1 :
-- 1 Mock Interview : Done
+- [x] Mock Interview 
