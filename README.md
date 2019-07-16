@@ -9,7 +9,8 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 
 ### Day 1 :
 - [x] 1 Mock Interview 
-- [x] 1 Codeforces Div2 Contest
+- [x] 1 Codeforces Round #573 (Div. 2) 
 
 ### Day 2 :
 - [x] 1 Mock Interview
+- [x] Educational Codeforces Round 68 (Rated for Div. 2) 
