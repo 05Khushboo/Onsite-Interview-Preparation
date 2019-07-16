@@ -12,3 +12,4 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 - [x] 1 Codeforces Div2 Contest
 
 ### Day 2 :
+-[x] 1 Mock Interview
