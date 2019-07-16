@@ -14,3 +14,4 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 ### Day 2 :
 - [x] 1 Mock Interview
 - [x] Educational Codeforces Round 68 (Rated for Div. 2) 
+- [x] Problems on 5 Different Algorithms / Data - Structures
