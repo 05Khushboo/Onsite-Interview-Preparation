@@ -25,4 +25,6 @@ int main() {
     }
     
     cout << arrows << endl;
+
+    return 0;
 }
