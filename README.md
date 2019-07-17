@@ -17,3 +17,4 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 - [x] Problems on 5 Different Algorithms / Data - Structures
 
 ### Day 3 :
+- [x] 1 Mock Interview
