@@ -25,4 +25,5 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 - [x] Random Problems
 
 ### Day 5 :
+- [x] 1 Mock Interview
 
