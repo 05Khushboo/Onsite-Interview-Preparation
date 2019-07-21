@@ -30,4 +30,9 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 
 ### Day 6 :
 - [x] 2 Mock Interviews
+- [x] Problems
+- [x] 1 Contest
+
+### Day 7 :
+
 
