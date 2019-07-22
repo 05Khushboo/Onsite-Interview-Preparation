@@ -39,5 +39,7 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 - [x] Random Problems
 
 ### Day 8 : 
+- [x] Mock Interview
+- [x] Random Problems
 
 
