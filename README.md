@@ -34,16 +34,17 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 - [x] 1 Contest
 
 ### Day 7 :
-- [x] Mock Interview
+- [x] 1 Mock Interview
 - [x] Connectivity
 - [x] Random Problems
 
 ### Day 8 : 
-- [x] Mock Interview
+- [x] 1 Mock Interview
 - [x] Random Problems
 - [x] Graphs Algorithms
 
 ### Day 9 :
-- [x] Mock Interview
+- [x] 2 Mock Interviews
 - [x] Random Problems
+- [x] Trees
 
