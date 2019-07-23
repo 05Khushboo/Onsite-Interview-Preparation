@@ -44,4 +44,6 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 - [x] Graphs Algorithms
 
 ### Day 9 :
+- [x] Mock Interview
+- [x] Random Problems
 
