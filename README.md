@@ -52,4 +52,8 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 - [x] 1 Mock Interview : 2.30 hours
 
 ### Day 11 :
+- [x] Trees
+
+### Day 12 :
+- [x] Random Problems 
 
