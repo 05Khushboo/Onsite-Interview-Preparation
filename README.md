@@ -69,6 +69,10 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 - Break
 
 ### Day 16
+-[x] Random Problems
+
+### Day 17
+-[x] Random Problems
 
 
 
