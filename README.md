@@ -79,7 +79,7 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 
 ### Day 19
 -[x] 1 Interview
-Fever :(
+-[x] Fever :(
 
 
 
