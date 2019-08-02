@@ -77,6 +77,10 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 ### Day 18
 -[x] Random Problems
 
+### Day 19
+-[x] 1 Interview
+Fever :(
+
 
 
 
