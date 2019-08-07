@@ -97,7 +97,7 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 - [x] Random Problems 
 
 ### Day 24
--[x] Arrays 
+- [x] Arrays 
 
 
 
