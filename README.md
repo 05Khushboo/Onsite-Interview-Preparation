@@ -107,6 +107,7 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 
 ### Day 27
 - [x] Maths
+- [x] 1 Mock Interview
 
 
 
