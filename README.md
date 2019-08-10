@@ -106,6 +106,7 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 - Break
 
 ### Day 27
+- [x] Maths
 
 
 
