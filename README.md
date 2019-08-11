@@ -109,6 +109,10 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 - [x] Maths
 - [x] 1 Mock Interview
 
+### Day 28
+- [x] Binary Search 
+- [x] Stacks and Queues
+
 
 
 
