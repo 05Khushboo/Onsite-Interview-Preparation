@@ -113,7 +113,8 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 - [x] Binary Search 
 - [x] Stacks and Queues
 
-
-
+### Day 29
+- [x] Bit Manipulation
+- [x] Two Pointers
 
 
