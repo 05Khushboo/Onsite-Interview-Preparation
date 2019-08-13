@@ -120,4 +120,5 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 ### Day 30
 - [x] Graphs
 - [x] Trees 
+- [x] 1 Mock Interview
 
