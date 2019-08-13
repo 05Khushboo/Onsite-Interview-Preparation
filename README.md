@@ -117,4 +117,7 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 - [x] Bit Manipulation
 - [x] Two Pointers
 
+### Day 30
+- [x] Graphs
+- [x] Trees 
 
