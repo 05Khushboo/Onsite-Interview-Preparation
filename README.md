@@ -125,3 +125,6 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 ### Day 31
 - [x] Graphs, Trees
 - [x] 1 Mock Interview 
+
+### Day 32
+- [x] 2 Mock Interviews
