@@ -134,6 +134,5 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 - [x] 2 Tests
 
 ### Day 34
-- [x] 1 Mock Interview
-- [x] 4 Tests
-
+- [x] 2 Tests
+- [x] Dynamic Programming
