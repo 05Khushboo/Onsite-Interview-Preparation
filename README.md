@@ -131,5 +131,9 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 
 ### Day 33
 - [x] 1 Mock Interview
-- [x] 1 Test
+- [x] 2 Tests
+
+### Day 34
+- [x] 1 Mock Interview
+- [x] 4 Tests
 
