@@ -138,4 +138,4 @@ I am having Google Onsite Interview next month so here I am sharing my plan to p
 - [x] Dynamic Programming
 
 ### Day 35
-- [x] 0 Test / 3 Tests
+- [x] 1 Test / 3 Tests
